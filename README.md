@@ -3,7 +3,7 @@ Code for Analysis of Poverty Using Tax-Calculator
 
 These files lay out steps for analyzing the effect to the US Census Bureau's Supplemental Poverty Measure (SPM) of a reform run using the open source [Tax-Calculator](https://github.com/PSLmodels/Tax-Calculator) tax microsimulation model.
 
-For more information, consult the March 2019 presentation to the Policy Simulation Library (PSL) meeting, **`psl.pdf`**
+For more information, consult the March 2019 presentation to the Policy Simulation Library (PSL) meeting, **`psl_presentation_v2.pdf`**
 
 The files assume that you have created an extract of the CPS ASEC for a single year at the University of Minnesota's [IPUMS](http://ipums.org) service. See the files or the presentation for the IPUMS variables needed.
 
